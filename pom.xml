@@ -77,7 +77,7 @@
 <!-- port yedi specify garena vanee , default 8080 ma gayera deploy huncha  -->
 
 <httpConnector>
-<port>8080</port>
+<port>8888</port>
 </httpConnector>
 
 
