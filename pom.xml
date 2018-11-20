@@ -123,8 +123,8 @@
 			
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
-				<artifactId>tomcat8-maven-plugin</artifactId>
-				<version>3.0-r1655215</version>
+				<artifactId>tomcat7-maven-plugin</artifactId>
+				<version>2.2</version>
 				<configuration>
 					<path>/spring2</path>
 					<url>http://${tomcat.hostname}:${tomcat.port}/manager/text</url>
